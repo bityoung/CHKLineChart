@@ -27,7 +27,7 @@
 		3999AEE1D8C13CBE0F47A12B /* Pods-CHKLineChart.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CHKLineChart.release.xcconfig"; path = "Pods/Target Support Files/Pods-CHKLineChart/Pods-CHKLineChart.release.xcconfig"; sourceTree = "<group>"; };
 		6349AF5F1FE2C1220C72A35B /* Pods-CHKLineChart.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CHKLineChart.debug.xcconfig"; path = "Pods/Target Support Files/Pods-CHKLineChart/Pods-CHKLineChart.debug.xcconfig"; sourceTree = "<group>"; };
 		C502BEF51F01168100E1BE8F /* CHDepthChartView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CHDepthChartView.swift; path = Classes/CHDepthChartView.swift; sourceTree = "<group>"; };
-		C54926651D8923BB0074ACD2 /* CHChartAlgorithm.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; lineEnding = 0; name = CHChartAlgorithm.swift; path = Classes/CHChartAlgorithm.swift; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		C54926651D8923BB0074ACD2 /* CHChartAlgorithm.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; lineEnding = 0; name = CHChartAlgorithm.swift; path = Classes/CHChartAlgorithm.swift; sourceTree = "<group>"; };
 		C559F2581D80FC22002B1E57 /* CHExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; lineEnding = 0; name = CHExtension.swift; path = Classes/CHExtension.swift; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		C56F6E561D879941002320D2 /* CHSeries.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; lineEnding = 0; name = CHSeries.swift; path = Classes/CHSeries.swift; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		C571876A1EFA425C002432E5 /* CHDynamicItem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CHDynamicItem.swift; path = Classes/CHDynamicItem.swift; sourceTree = "<group>"; };
@@ -174,7 +174,7 @@
 				TargetAttributes = {
 					C5F59ECF1FA883DF00AD85A2 = {
 						CreatedOnToolsVersion = 9.0.1;
-						DevelopmentTeam = VMP7X4L9S3;
+						DevelopmentTeam = R5A526WJWM;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -352,7 +352,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = VMP7X4L9S3;
+				DEVELOPMENT_TEAM = R5A526WJWM;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
@@ -390,7 +390,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = VMP7X4L9S3;
+				DEVELOPMENT_TEAM = R5A526WJWM;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
